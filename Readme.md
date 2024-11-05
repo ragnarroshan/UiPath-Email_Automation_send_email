@@ -53,7 +53,7 @@ Attachments (Optional): If you want to attach a file, provide the file path in t
 
 #### Set Authentication:
 
-You need to authenticate the email sending by providing your username (Gmail address) and password in the Properties panel under the Username and Password sections.
+You need to authentiate the email sending by providing your username (Gmail address) and password in the Properties panel under the Username and Password sections.
 
 ### Save and Run the Workflow:
 
